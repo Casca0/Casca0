@@ -1,6 +1,9 @@
 ### 🤟Olá devs, me chamo Lucas, também conhecido como 'Cascão'!
 Sou um desenvolvedor frontend que evolui todos os dias, sempre procurando algo novo para explorar e conhecer, testando meus limites e meu conhecimento com novos projetos.
 
+### Redes sociais :
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-borzani-a56770189/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashborzani@gmail.com)
 ### Ferramentas e tecnologias : 
 
 <p align='left'>
