@@ -1,5 +1,6 @@
 ### 🤟Olá devs, me chamo Lucas, também conhecido como 'Cascão'!
 Sou um desenvolvedor frontend que evolui todos os dias, sempre procurando algo novo para explorar e conhecer, testando meus limites e meu conhecimento com novos projetos.
+Dentro deste perfil estou desenvolvendo alguns projetos relacionados com o meu servidor no Discord isto inclui criação de bots usando o package do npm Discord.js e futuramente a criação de um site em conjunto com alguns amigos meus para o servidor, como um "blog".
 
 ### Redes sociais :
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-borzani-a56770189/)
