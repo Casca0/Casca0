@@ -26,5 +26,5 @@ Dentro deste perfil estou desenvolvendo alguns projetos relacionados com o meu s
 		<a href="https://discord.js.org/#/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=casca0&show_icons=true&theme=dark&hide_border=true&locale=pt-br&layout=compact" alt="casca0" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casca0&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="casca0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=casca0&show_icons=true&theme=codeSTACKr&hide_border=true&locale=pt-br&layout=compact" alt="casca0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casca0&show_icons=true&theme=codeSTACKr&hide_border=true&locale=pt-br" alt="casca0" /></p>
