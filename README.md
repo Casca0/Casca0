@@ -19,6 +19,3 @@ Dentro deste perfil estou desenvolvendo alguns projetos relacionados com o meu s
 	<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=casca0&show_icons=true&theme=codeSTACKr&hide_border=true&locale=pt-br&layout=compact" alt="casca0" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casca0&show_icons=true&theme=codeSTACKr&hide_border=true&locale=pt-br" alt="casca0" /></p>
